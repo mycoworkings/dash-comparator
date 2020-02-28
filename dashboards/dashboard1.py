@@ -17,7 +17,7 @@ def get_percentage_of_data_by_country(dataframe, col, country):
 # engine = create_engine("postgresql://:@localhost:5432/aitorlucas")
 # df = pd.read_sql_table("hubspot", con=engine)
 
-df = pd.read_csv("/home/aitor/Escritorio/hubspot_contacts.csv", low_memory=False)
+df = pd.read_csv("../hubspot_contacts.csv", low_memory=False)
 
 fields = ["pet_name", "size_cat", "size_dog", "zip", "f_t_protection", "frequency_to_the_vet",
           "bravecto_client", "mobilephone", "date_birth_pet", "country"]
