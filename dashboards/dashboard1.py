@@ -1,11 +1,10 @@
 # This example displays how to get all contacts from a HubID and paginate through them using the 'offset' parameter.
 # The end result is a python list containing all parsed contacts.
 
-import pandas as pd
-from sqlalchemy import create_engine
 import dash
-import dash_table
 import dash_html_components as html
+import dash_table
+import pandas as pd
 
 
 def get_percentage_of_data_by_country(dataframe, col, country):
