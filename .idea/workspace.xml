@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb7849fc-9a51-44b8-bb4b-b4208bf67038" name="Default Changelist" comment="" />
+    <list default="true" id="eb7849fc-9a51-44b8-bb4b-b4208bf67038" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1X9twgnweWsL3MBdh4nEwSt9DT5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,8 +28,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.dashboard1">
     <configuration name="dashboard1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -130,7 +142,30 @@
       <option name="presentableId" value="Default" />
       <updated>1580470377900</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1582913258454</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582913258454</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="678" y="281" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582658906821">
@@ -141,6 +176,10 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="361" y="257" width="1417" height="593" key="#xdebugger.evaluate/70.27.1850.1053@70.27.1850.1053" timestamp="1580485602521" />
+    <state x="599" y="97" width="782" height="919" key="CommitChangelistDialog2" timestamp="1582913337092">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="599" y="97" width="782" height="919" key="CommitChangelistDialog2/70.27.1850.1053@70.27.1850.1053" timestamp="1582913337092" />
     <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1582658935978">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
@@ -181,6 +220,10 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1580470429802" />
+    <state x="590" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1582913352671">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="590" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/70.27.1850.1053@70.27.1850.1053" timestamp="1582913352671" />
     <state width="960" height="540" key="XDebugger.FullValuePopup" timestamp="1580481800584">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
@@ -198,11 +241,6 @@
           <url>file://$PROJECT_DIR$/test/test3.py</url>
           <line>12</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/dashboards/dashboard1.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/test/pie_test.py</url>
